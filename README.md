@@ -16,6 +16,8 @@ Crime changes based on season, population shifts, and policing strategies. Under
 
 
 
+
+
 2) Which types of crimes occur most frequently near certain geographic locations, and how does crime distribution vary by area?
 
 Why this matters:
