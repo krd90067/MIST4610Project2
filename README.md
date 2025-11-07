@@ -11,7 +11,8 @@ Questions:
 Why this is interesting / meaningful:
 Crime changes based on season, population shifts, and policing strategies. Understanding which neighborhoods have rising vs. falling crime rates can help agencies allocate officers, improve safety planning, and inform policy.
 
-<img width="1008" height="539" alt="image" src="https://github.com/user-attachments/assets/1f138775-b241-4a71-8a44-b919efe4fd73" />
+<img width="1007" height="630" alt="image" src="https://github.com/user-attachments/assets/4df5c3a3-4152-46bf-bfa0-be0f7aeefda4" />
+
 
 
 
