@@ -24,7 +24,8 @@ Analysis/Result Explanation:
 Why this matters:
 Law enforcement and city planners need to know what kinds of crimes are concentrated where. For example, theft may cluster in commercial zones, while vehicle theft may cluster near residential streets.
 
-<img width="1007" height="630" alt="image" src="https://github.com/user-attachments/assets/5b4f28df-fe4e-4bfb-96d0-13c7cd3e1eb1" />
+<img width="998" height="623" alt="image" src="https://github.com/user-attachments/assets/6865e5b8-8e7e-49fe-a315-f0b28f5a80f1" />
+
 
 
 Analysis/Result Explanation:
