@@ -1,12 +1,12 @@
 # MIST4610Project2
 
 # Team Members
-Pragnya Nallagonda: [@PragnyaNal] https://github.com/PragnyaNal
-Carter Trent: [@mct29403] https://github.com/mct29403
-Kohan Davis: [@krd90067] https://github.com/krd90067
-Eric Mied: [@ericmied] https://github.com/ericmied
-Vraj Patel: [@vrajpatel543] https://github.com/vrajpatel543
-Aiden Mintskovsky: [@aidenmint] https://github.com/aidenmint
+Pragnya Nallagonda: [@PragnyaNal] https://github.com/PragnyaNal   
+Carter Trent: [@mct29403] https://github.com/mct29403   
+Kohan Davis: [@krd90067] https://github.com/krd90067   
+Eric Mied: [@ericmied] https://github.com/ericmied   
+Vraj Patel: [@vrajpatel543] https://github.com/vrajpatel543   
+Aiden Mintskovsky: [@aidenmint] https://github.com/aidenmint   
 
 # Describing your dataset and what data it contains:
 Group name: F25MIST4610_15058_Group1  
