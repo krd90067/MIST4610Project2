@@ -62,7 +62,7 @@ Crime was relatively low in 2020 and according to Pinkerton because of Covid loc
 
 Question 2: Which neighborhoods in Los Angeles have the most dense crime and can be considered unsafe to live in?  
 <img width="2976" height="1887" alt="image" src="https://github.com/user-attachments/assets/413d4f52-e8d8-4a0a-9052-c65bfd809ae9" />
-Central LA, 77th Street, Pacific, and Southwest Areas which can be seen more clearly on the below image from Google Maps have the highest crime rates.   
+Central LA, 77th Street, Pacific, and Southwest Areas which can be seen more clearly on the below image from Google Maps have the highest crime rates. According to a UCLA study the highest-crime, most densely victimized neighborhoods are those with concentrated poverty, lower educational access, and unstable employment—primarily in South LA, Southeast LA, and parts of the central city—while affluent westside tracts see far lower crime.  Crime events are strongly clustered in the downtown core and central LA, with the heaviest hot spots around Downtown, South Park, and adjacent central neighborhoods rather than being evenly spread across the city.   
 <img width="1794" height="1512" alt="image" src="https://github.com/user-attachments/assets/a6a2a238-d83c-4d4c-8d09-2f08a61d2d5b" />
 The types of crime show that stolen vehicles and identity theft, burglary from a vehicle, and simple assualt are the most common.   
 <img width="833" height="479" alt="image" src="https://github.com/user-attachments/assets/e11fe70d-a253-4929-a396-134d3d4da716" />
