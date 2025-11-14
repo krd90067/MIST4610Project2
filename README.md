@@ -14,13 +14,13 @@ Data set describes Crime Data from 2020 to present from the LAPD obtained from h
 Dimesnsions: 1004991 rows, 28 columns  
 Columns:    
   Division of Records Number: Official file number made up of a 2 digit year, area ID, and 5 digits. Data type: Number   
-  Date reported. Data type: Date   
-  Date occured. Data type: Date   
-  Time occured. Data type: Number   
+  Date reported: Data type: Date   
+  Date occured: Data type: Date   
+  Time occured: Data type: Number   
   Area: The LAPD has 21 Community Police Stations referred to as Geographic Areas within the department. These Geographic Areas are sequentially numbered from 1-21. Data type: Number (whole)  
   Area name: The LAPD has 21 Community Police Stations referred to as Geographic Areas within the department. These Geographic Areas are sequentially numbered from 1-21. Data type: String
   Report district number: A four-digit code that represents a sub-area within a Geographic Area. All crime records reference the "RD" that it occurred in for statistical comparisons. Find LAPD Reporting Districts on the LA City GeoHub at http://geohub.lacity.org/datasets/c4f83909b81d4786aa8ba8a74a4b4db1_4. Data type: Number (whole)   
-  Part 1-2: . Data type: Number (whole)   
+  Part 1-2: Which data set the data came from. Data type: Number (whole)   
   Crime commited: Indicates the crime committed using a number and is the same as (Crime code 1). Data type: Number (whole)   
   Crime code description: Indicates the crime committed in words that correspondes to the value in the crime committed column. Data type: String   
   Modus Operandi: Activities associated with the suspect in commission of the crime.See attached PDF for list of MO Codes in numerical order. https://data.lacity.org/api/views/y8tr-7khq/files/3a967fbd-f210-4857-bc52-60230efe256c?download=true&filename=MO%20CODES%20(numerical%20order).pdf. Data type: String   
