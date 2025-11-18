@@ -1,4 +1,6 @@
 # MIST4610Project2
+MIST 4610 Project 2 Group 1 Srinivasan Fall 2025
+ns_F25MIST4610_15058_Group1
 
 # Team Members
 Pragnya Nallagonda: [@PragnyaNal](https://github.com/PragnyaNal)   
